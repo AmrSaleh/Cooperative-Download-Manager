@@ -92,7 +92,7 @@ exchange process then we merged the resulting chunks and produced a
 working copy of the originally downloaded file at each client. 
 
 ## Video demonstration
-Commentary is in Arabic but I plan to add English subtitles.
+Commentary is in Arabic with English subtitles.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3cyurbn01gM
 " target="_blank"><img src="http://img.youtube.com/vi/3cyurbn01gM/0.jpg" 
